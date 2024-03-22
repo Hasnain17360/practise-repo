@@ -1,0 +1,3 @@
+let greet = "Hi!";
+console.log(greet);
+export {};
